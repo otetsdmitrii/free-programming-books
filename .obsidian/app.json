@@ -1,1 +1,8 @@
-{}
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
+}
